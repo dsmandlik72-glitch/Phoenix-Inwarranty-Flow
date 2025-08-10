@@ -36,7 +36,7 @@ jobs:
 
       - name: Newman Report
         if: always() # ensure that the archive executed irrespective whether the previous step has failed or not 
-        uses: actions/download-artifact@v5.0.0
+        uses: actions/upload-artifact@v4.6.2
         with:
           name: Newman Report
           path: newman/*.html
