@@ -8,7 +8,7 @@ The latest report is mailed to the team members using GMAIL SMTP.
 ## About Me ## 
 
 Hi My Name is Dhananjay Sunil Mandlik. I have 6 years of experience in Automation Testing. My skillset includes UI Automation with Selenium Webdriver, Cypress, Playwright and for API Testing Rest Assured and Postman.
-You can connect with me over: (https://www.linkedin.com/in/dhananjay-mandlik-662bb7153?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+You can connect with me over: (https://www.linkedin.com/in/dhananjay-mandlik-662bb7153/)
 
 ## Testing Coverage ## 
   1. Happy Flow Testing
